@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hamburg_mitte_name">Hamburg-Mitte</string>
+    <string name="hamburg_mitte_history">Etwas über die Geschichte Hamburg-Mittes</string>
+    <string name="hamburg_mitte_statistics">Etwas über Statistiken Hamburg-Mittes</string>
+    <string name="hamburg_mitte_attractions">Etwas über Sehenswürdigkeiten Hamburg-Mittes</string>
+    <string name="hamburg_mitte_legends">Etwas über Legenden Hamburg-Mittes</string>
+</resources>

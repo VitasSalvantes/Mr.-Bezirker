@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="harburg_name">Harburg</string>
+    <string name="harburg_history">Etwas über die Geschichte Harburgs</string>
+    <string name="harburg_statistics">Etwas über Statistiken Harburgs</string>
+    <string name="harburg_attractions">Etwas über Sehenswürdigkeiten Harburgs</string>
+    <string name="harburg_legends">Etwas über Legenden Harburgs</string>
+</resources>

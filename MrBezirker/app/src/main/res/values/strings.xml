@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mr. Bezirker</string>
+    <string name="description_img_hamburg">Schone Bild</string>
+
+    <string-array name="districts">
+        <item>Altona</item>
+        <item>Bergedorf</item>
+        <item>Eimsbüttel</item>
+        <item>Hamburg-Mitte</item>
+        <item>Hamburg-Nord</item>
+        <item>Harburg</item>
+        <item>Wandsbek</item>
+    </string-array>
+
+    <string-array name="sections">
+        <item>Geschichte</item>
+        <item>Statistiken</item>
+        <item>Sehenswürdigkeiten</item>
+        <item>Legenden</item>
+    </string-array>
+
+    <string name="empty"></string>
+</resources>

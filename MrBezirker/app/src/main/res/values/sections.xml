@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="history">Geschichte</string>
+    <string name="statistics">Statistiken</string>
+    <string name="attractions">Sehenswürdigkeiten</string>
+    <string name="legends">Legenden</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wandsbek_name">Wandsbek</string>
+    <string name="wandsbek_history">Etwas über die Geschichte Wandsbeks</string>
+    <string name="wandsbek_statistics">Etwas über Statistiken Wandsbeks</string>
+    <string name="wandsbek_attractions">Etwas über Sehenswürdigkeiten Wandsbeks</string>
+    <string name="wandsbek_legends">Etwas über Legenden Wandsbeks</string>
+</resources>

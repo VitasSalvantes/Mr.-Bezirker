@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eimsbüttel_name">Eimsbüttel</string>
+    <string name="eimsbüttel_history">Etwas über die Geschichte Eimsbüttels</string>
+    <string name="eimsbüttel_statistics">Etwas über Statistiken Eimsbüttels</string>
+    <string name="eimsbüttel_attractions">Etwas über Sehenswürdigkeiten Eimsbüttels</string>
+    <string name="eimsbüttel_legends">Etwas über Legenden Eimsbüttels</string>
+</resources>

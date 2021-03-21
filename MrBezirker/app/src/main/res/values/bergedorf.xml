@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bergedorf_name">Bergedorf</string>
+    <string name="bergedorf_history">Etwas über die Geschichte Bergedorfs</string>
+    <string name="bergedorf_statistics">Etwas über Statistiken Bergedorfs</string>
+    <string name="bergedorf_attractions">Etwas über Sehenswürdigkeiten Bergedorfs</string>
+    <string name="bergedorf_legends">Etwas über Legenden Bergedorfs</string>
+</resources>

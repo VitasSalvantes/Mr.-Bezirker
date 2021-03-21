@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hamburg_nord_name">Hamburg-Nord</string>
+    <string name="hamburg_nord_history">Etwas über die Geschichte Hamburg-Nords</string>
+    <string name="hamburg_nord_statistics">Etwas über Statistiken Hamburg-Nords</string>
+    <string name="hamburg_nord_attractions">Etwas über Sehenswürdigkeiten Hamburg-Nords</string>
+    <string name="hamburg_nord_legends">Etwas über Legenden Hamburg-Nords</string>
+</resources>
