@@ -1,7 +1,7 @@
 ## Mr. Bezirker ##
 With this Android application you can learn a lot about the districts of Hamburg
 
-## Content ##
+## Table of content ##
 - [Available information](#Available-information)
 - [Current state of development](#Current-state-of-development)
 - [Installation](#Installation)
